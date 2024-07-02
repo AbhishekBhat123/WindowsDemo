@@ -22,4 +22,13 @@ Technologies Used:
 HTML5
 CSS3 (Flexbox, Grid)
 JavaScript (ES6+)
-Feel free to explore the co
+
+
+#Images are Shown Below
+
+![Screenshot (12)](https://github.com/AbhishekBhat123/WindowsDemo/assets/144084687/02054c8e-5073-4b8d-bb44-493e01af6632)
+
+![Screenshot (10)](https://github.com/AbhishekBhat123/WindowsDemo/assets/144084687/05a43844-495e-4b21-bb0b-7ef0369b650d)
+
+
+
